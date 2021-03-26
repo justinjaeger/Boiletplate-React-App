@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# Weather-Test
-=======
-This is boilerplate code
->>>>>>> a793e16... committing boilerplate
+Boilerplate code to replace Create React App
